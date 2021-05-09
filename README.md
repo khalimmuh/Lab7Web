@@ -1,3 +1,8 @@
+## NAMA : KHALIM 
+## NIM : 311910742 
+## KELAS : TI.19 B1
+
+
 # Memulai PHP
 Buat folder lab7_php_dasar pada root directory web server (d:\xampp\htdocs)
 
